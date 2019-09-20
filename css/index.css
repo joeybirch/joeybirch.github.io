@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(59, 59, 59);
+}
+
+#main-search-area {
+    background: url("../images/towtruck-main.jpeg");
+    opacity: 0.75;
+    background-size: cover, auto;
+    
+}
+
+#main-search-submit {
+    background-color: #850a0a
+}
+#main-search-card {
+   opacity: .95;
+   background-color: rgb(59, 59, 59);
+}
+
+.main-sub-content {
+    background-color: rgb(59, 59, 59);
+    opacity: .90;
+    height: 250px;
+    overflow: hidden
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+#add-company-button {
+    background-color: #850a0a;
+    color: white;
+}
+
+.ad-container {
+    display: block;
+    margin: auto;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.ad-img {
+    width: 150px;
+    height:75px;
+}
+
+#footer {
+    width: 100%;
+    background-color: #850a0a;
+    
+    
+    
+}
+
+
+#vertical-ad-space {
+    width:150px;
+    display: block;
+    padding: 5%;
+}
+    
+.vertical-ad-img {
+    width: 150px;
+    height:75px;
+    margin-bottom: 5%;
+}
+
+#main-content-area {
+    background-color: rgb(175, 175, 175);
+}
